@@ -1,4 +1,4 @@
 {
-  "$schema": "https://glama.ai/mcp/schemas/server.json",
-  "maintainers": ["Mkr265"]
+  "$schema": "https://glama.ai/mcp/schemas/connector.json",
+  "claim": "glama_claim_K78jHMQlzAebMWP-oLarTlusIWDLABlT"
 }
